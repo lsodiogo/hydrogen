@@ -1,4 +1,4 @@
-# Welcome!
+# Welcome Diogo!
 
 Your JavaScript module was successfully created. If this is your first time creating a module, you may want to consult the [Getting Started guide](https://github.com/Jahia/javascript-modules/tree/main/docs/1-getting-started/1-dev-environment#create-a-new-project).
 

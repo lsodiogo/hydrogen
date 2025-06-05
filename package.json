@@ -12,7 +12,7 @@
     "build": "tsc --noEmit && vite build && run package",
     "clean": "rm -rf dist/",
     "deploy": "jahia-deploy",
-    "dev": "vite build --watch",
+    "dev": "vite dev",
     "format": "prettier --write --list-different .",
     "lint": "eslint .",
     "package": "yarn pack --out dist/package.tgz",
